@@ -5,7 +5,7 @@
 <h4 align="center">This is me doing Silly Things On my Machine</h4>
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Type Script**
 
 - 📫 How to reach me **mqranimnsf2003@gmail.com**
 
