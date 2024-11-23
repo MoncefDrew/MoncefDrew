@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mqranimnsf2003@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,js,ts,nodejs,nextjs,mysql,java)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoncefDrew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
