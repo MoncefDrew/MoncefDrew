@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mqranimnsf2003@gmail.com**
 
-<h3 align="left">Languages and Tools:[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,nextjs,mysql,java)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:(https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,nextjs,mysql,java)
 </h3>
 
 <h3 align="left">Connect with me:</h3>
