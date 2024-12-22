@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Breaddit](https://github.com/MoncefDrew/Breaddit)
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **mqranimnsf2003@gmail.com**
 
@@ -14,7 +14,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,nextjs,mysql,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,nextjs,mysql,java," />
   </a>
 </p>
 
@@ -22,11 +22,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  
-<a href="https://twitter.com/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moncefdrew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moncefdrew" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20510714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20510714" height="30" width="40" /></a>
-<a href="https://instagram.com/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moncefdrew" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moncefdrew" height="30" width="40" /></a>
+  <a href="https://twitter.com/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moncefdrew" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20510714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20510714" height="30" width="40" /></a>
+  <a href="https://instagram.com/moncefdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moncefdrew" height="30" width="40" /></a>
 </p>
 
