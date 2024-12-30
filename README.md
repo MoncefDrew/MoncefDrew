@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My Name Is Moncef</h1>
 <h3 align="center">A passionate Software Developper From Algeria</h3>
-<img src="https://64.media.tumblr.com/93fb46e1ac65916a9f82cbc13c0b40db/9838cfb714a30c2d-24/s1280x1920/a2349d4609a81d7c2e4c527479c8034ee4d58a70.gif"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 <h3 align="center">that's Me btw</h3>
 
-- 🔭 I’m currently working on [Breaddit](https://github.com/MoncefDrew/Breaddit)
+- 🔭 I’m currently working on [Breaddit](https://github.com/MoncefDrew/Breaddit) and cinematic
 
 - 🌱 I’m currently learning **React Native**
 
