@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name Is Moncef</h1>
-<h3 align="center">A passionate Software Developper From Algeria</h3>
+<h3 align="center">A passionate Software Developer From Algeria</h3>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 <h3 align="center">that's Me btw</h3>
 
