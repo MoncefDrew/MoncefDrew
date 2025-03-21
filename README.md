@@ -3,9 +3,9 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 <h3 align="center">that's Me btw</h3>
 
-- 🔭 I’m currently working on [Breaddit](https://github.com/MoncefDrew/Breaddit) and cinematic
 
-- 🌱 I’m currently learning **React Native**
+
+- 🌱 I’m currently learning **Laravel PHP**
 
 - 📫 How to reach me **mqranimnsf2003@gmail.com**
 
